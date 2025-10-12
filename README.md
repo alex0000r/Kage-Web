@@ -1,2 +1,2 @@
 # Kage-Web
-I'll come up with it later...
+Project serves it's purpose in making the sense of life.
