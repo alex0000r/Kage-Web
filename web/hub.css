@@ -1,0 +1,35 @@
+@font-face {
+  src: url('content/fonts/BergstenaDecorated.otf');
+  font-family: 'Bergstena';
+  font-style: normal;
+}
+
+@font-face {
+    src: url('content/fonts/Blackhunter.ttf');
+    font-family: 'Blackhunter';
+    font-style: normal;
+}
+
+@font-face {
+    src: url('content/fonts/Brunine.ttf');
+    font-family: 'Brunine';
+    font-style: normal;
+}
+
+h1 {
+    color:dimgray;
+    font: 2rem Bergstena;
+    the-mark {
+        color:crimson;
+        font: 4rem Blackhunter;
+    }
+}
+
+h2 {
+    color:dimgray;
+    font: 1.5rem Brunine;
+}
+
+a {
+    color:black;
+}
