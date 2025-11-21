@@ -16,11 +16,15 @@
     font-style: normal;
 }
 
+html {
+    background-color:rgb(236, 236, 236);
+}
+
 h1 {
     color:dimgray;
     font: 2rem Bergstena;
     the-mark {
-        color:crimson;
+        color:rgb(20, 20, 20);
         font: 4rem Blackhunter;
     }
 }
@@ -32,4 +36,23 @@ h2 {
 
 a {
     color:black;
+}
+
+.about {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    font-size: 12px;
+}
+
+.menu {
+    background-color: transparent;
+    border: none;
+}
+
+.fdate {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    font-size: 12px;
 }
