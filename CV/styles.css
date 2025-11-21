@@ -1,0 +1,46 @@
+h1 {
+  display: flex;
+  margin: -5px 0px 0px
+}
+
+h2 {
+  font-size: 18px;
+}
+
+a:link {
+    color:black;
+}
+
+a:link:hover {
+    color:darkblue;
+}
+
+a:link:visited {
+    color:beige;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  text-indent: -2em;
+}
+
+div {
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.contact {
+  font-size: 14px;
+}
+
+.experience {
+    margin: 0px 50px 0px;
+}
+
+.links {
+    display: flex;
+    margin-top: -25px;
+}
