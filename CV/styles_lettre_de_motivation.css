@@ -1,0 +1,22 @@
+h1 {
+    font-size: 22px;
+    position: absolute;
+    top: 120px;
+    left: 6px;
+}
+
+div {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+
+.to {
+    margin: 0px 150px;
+}
+
+.description {
+    position: absolute;
+    top: 10rem;
+    left: 6px;
+}
